@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aashish Panchal</h1>
-<img align="center" alt="Coding" width="auto" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
-<h3 align="center">Passionate in Full-Stack developer and AI</h3>
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
 ## 🛠️ Technologies & Tools
 
@@ -60,5 +59,3 @@
 ## 📫 Get In Touch
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/aashishpanchal-dev) or follow me on [Twitter](https://x.com/aashish_panchal).
-
-<img src="https://raw.githubusercontent.com/aashishpanchal/aashishpanchal/output/snake.svg" alt="Snake animation" />
