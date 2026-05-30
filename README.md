@@ -1,61 +1,62 @@
-<h1 align="center">Hi 👋, I'm Aashish Panchal</h1>
+# Hi there, I'm Aashish Panchal 👋
 
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+**Full-Stack Engineer | Mobile App Developer | Backend & DevOps Enthusiast**
 
-## 🛠️ Technologies & Tools
+I am a developer who lives and breathes code. Whether it's building complex Backend systems, crafting Mobile apps, or automating DevOps and AI workflows, I find joy in the process of turning logic into reality. To me, programming isn't just a job; it's about solving problems, no matter the language or the challenge.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="30" alt="babel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-</div>
+With over **3 years of overall professional experience**, I focus on building high-performance applications that solve real-world problems.
 
-## 📈 GitHub Stats
+In 2024, I decided to take the road less traveled and dropped out of my BTech to focus entirely on building real-world products and mastering my craft.
+
+---
+
+### 🚀 What I'm Doing
+
+- 🏗️ Engineering scalable backend architectures.
+- 📱 Crafting seamless mobile experiences.
+- ⚙️ Automating workflows and exploring DevOps practices.
+- 💡 Turning complex problems into simple, elegant code.
+
+---
+
+### 🌟 Project Showcase
+
+- **[exstack](https://github.com/aashishpanchal/exstack)** - A lightweight utility library for Express.js to simplify server-side logic and reduce boilerplate.
+- **[radix-way](https://github.com/vajra-labs/radix-way)** - High-performance HTTP router using Radix Tree algorithm. Up to 15x faster than alternatives.
+- **[rnstk_wallpaper](https://github.com/vajra-labs/rnstk_wallpaper)** - React Native module to set home and lock screen wallpapers on Android.
+
+---
+
+### 🛠️ Technologies & Tools
+
+![Technologies](https://go-skill-icons.vercel.app/api/icons?i=js,ts,python,go,rust,cpp,c,bash,solidity,kotlin,react,nextjs,reactnative,expo,tailwind,tanstack,redux,zustand,figma,nodejs,expressjs,hono,drizzle,prisma,fiber,django,fastapi,mysql,postgresql,mongodb,redis,supabase,firebase,docker,kubernetes,nginx,aws,vercel&perline=10)
+
+### 💻 Tools & Operating Systems
+
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,pnpm,bun,vscode,neovim,linux,ubuntu,arch,apple&perline=11)
+
+---
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=aashishpanchal&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" width="600" alt="Footer GIF" />
 </div>
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aashishpanchal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aashishpanchal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
-</div>
+### 📊 My GitHub Journey
 
-###
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=aashishpanchal&show_icons=true&theme=radical&count_private=true" alt="Aashish's GitHub Stats" />
+</p>
 
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aashishpanchal" alt="aashishpanchal" /></a></p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aashishpanchal&theme=radical" alt="GitHub Streak" />
+</p>
 
-## 📫 Get In Touch
+---
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/aashishpanchal-dev) or follow me on [Twitter](https://x.com/aashish_panchal).
+### 📫 Let's Connect
+
+[LinkedIn](https://www.linkedin.com/in/aashishpanchal-dev) • [Twitter](https://x.com/aashish_panchal) • [Portfolio](https://aashishpanchal.dev)
+
+_"Code is temporary, engineering is forever."_
