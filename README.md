@@ -1,5 +1,11 @@
 # Hi there, I'm Aashish Panchal 👋
 
+<p align="center">
+  <a href="https://github.com/aashishpanchal">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Full-Stack+Engineer+%E2%80%94+Mobile%2C+Web+%26+Backend;High-Performance+Backends+in+Go%2C+Node.js+%26+TypeScript;Cross-Platform+Mobile+Apps+with+React+Native;DevOps%2C+Microservices+%26+Cloud+Architecture;Turning+Complex+Logic+Into+High-Impact+Products+%F0%9F%9A%80" alt="Typing Banner" />
+  </a>
+</p>
+
 **📍 Delhi | Full-Stack Engineer | Mobile/Web App Developer | 🚀 Backend, Mobile/Web App, DevOps Enthusiast**
 
 I am a developer who lives and breathes code. Whether it's building complex Backend systems, crafting Mobile apps, or automating DevOps and AI workflows, I find joy in the process of turning logic into reality. To me, programming isn't just a job; it's about solving problems, no matter the language or the challenge. With over **3 years of overall professional experience**, I focus on building high-performance applications that solve real-world problems.
